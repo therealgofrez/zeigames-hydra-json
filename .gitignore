@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Whitelist only the requested files
+!README.md
+!zeigames.json
+!.gitignore
